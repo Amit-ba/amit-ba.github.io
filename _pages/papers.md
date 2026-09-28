@@ -18,6 +18,38 @@ Amit Ben-Artzy, Roy Schwartz
 
 
 <div class="citation">
+  <h3 class="archive__item-title" style="margin-bottom: 0.2em;">Global Divergence, Local Convergence: Representation Geometry in SSMs and Transformers</h3>
+  <p class="archive__item-excerpt" style="margin-bottom: 0.2em;">
+    <em>EMNLP 2026 (Main)</em><br>
+    Amit Ben-Artzy, Roy Schwartz
+  </p>
+  <div style="margin-top: 0.5em;">
+    <a href="https://arxiv.org/abs/2609.08692" class="btn btn--custom">ArXiv</a>
+    <a href="https://github.com/schwartz-lab-NLP/ssm-vs-transformer-geometry" class="btn btn--custom"> Code</a>
+  </div>
+</div>
+
+
+
+<div class="citation">
+  <h3 class="archive__item-title" style="margin-bottom: 0.2em;">SpeLLM: Character-Level Multi-Head Decoding</h3>
+  <p class="archive__item-excerpt" style="margin-bottom: 0.2em;">
+    <em>Preprint, 2025</em><br>
+    Amit Ben-Artzy, Roy Schwartz
+  </p>
+  <div style="margin-top: 0.5em;">
+    <!-- <a href="https://arxiv.org/abs/2409.03621" class="btn btn--custom"><i class="fa-solid fa-file"> </i>ArXiv</a>
+    <a href="https://x.com/Amit_BenArtzy/status/1854155692363416010?t=JGwEL7S4H_-crJi_PhN1dw&s=19" class="btn btn--custom"><i class="fa-brands fa-twitter"></i> Tweet</a>
+    <a href="https://github.com/schwartz-lab-NLP/Attend-First-Consolidate-Later" class="btn btn--custom"> <i class="fa-brands fa-github"> </i>Code</a> -->
+    <a href="https://arxiv.org/abs/2507.16323" class="btn btn--custom">ArXiv</a>
+    <!-- <a href="https://x.com/Amit_BenArtzy/status/1854155692363416010?t=JGwEL7S4H_-crJi_PhN1dw&s=19" class="btn btn--custom">Tweet</a> -->
+    <a href="https://github.com/schwartz-lab-NLP/SpeLLM" class="btn btn--custom"> Code</a>
+  </div>
+</div>
+
+
+
+<div class="citation">
   <h3 class="archive__item-title" style="margin-bottom: 0.2em;">Attend First: Consolidate Later: On the Importance of Attention in Different LLM Layers</h3>
   <p class="archive__item-excerpt" style="margin-bottom: 0.2em;">
     <em>BlackBox NLP 2024</em><br>
@@ -32,6 +64,9 @@ Amit Ben-Artzy, Roy Schwartz
     <a href="https://github.com/schwartz-lab-NLP/Attend-First-Consolidate-Later" class="btn btn--custom"> Code</a>
   </div>
 </div>
+
+
+
 
 
   <!-- <a href="https://arxiv.org/abs/2409.03621" class="btn--custom">
